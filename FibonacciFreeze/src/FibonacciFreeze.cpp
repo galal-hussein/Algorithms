@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : FibonacciFreeze.cpp
 // Author      : Hussein Galal
-// ACM BI      : 495,10579
+// UVA BI      : 495
 // Description : Fibonacci Freeze in C++, Ansi-style
 //============================================================================
 
