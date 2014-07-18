@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : PascalTriangleOfDeath.cpp
 // Author      : Hussein Galal
-// ACM NO      : 485
+// UVA NO      : 485
 // Description : PascalTriangleOfDeath in C++, Ansi-style
 //============================================================================
 
